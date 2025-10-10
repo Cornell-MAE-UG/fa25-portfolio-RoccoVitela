@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Rocco_Vitela_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [rdv35@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +540 535 5169
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Engineering student with a strong foundation in math, physics, and other engineering topics. Passionate about mechanical design and eager to apply my knowledge in real-world applications.
 
 ---
 
