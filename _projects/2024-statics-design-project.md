@@ -14,7 +14,7 @@ The project required applying static equilibrium principles to analyze forces, m
 
 This project demonstrated my ability to translate theoretical statics principles into a practical mechanical design and strengthened my understanding of force transmission, moment analysis, and actuator geometry.
 
-![alt text](/assets/images/beam_project.png)
+<img src="/assets/images/picture.jpg" alt="Statics design" width="600">
 
 I modeled the beam as a cantilever with a 2.94 kN tip load from the actuator. I calculated the required second moment of area to keep the tip deflection below the allowable limit of 2% of the beam’s 1.2 m length (24 mm).
 I evaluated several cross-sections and found that a hollow circular tube is the most mass-efficient way to achieve the required bending stiffness. The final recommended design is an 30 mm outer-diameter hollow steel tube with a wall thickness of about 20 mm. This section meets the deflection requirement while minimizing mass far better than an equivalent solid bar.
