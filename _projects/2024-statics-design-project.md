@@ -13,3 +13,7 @@ I selected a rod length of 120 cm (the maximum allowable length) and used a RSX 
 The project required applying static equilibrium principles to analyze forces, moments, and reaction components at each pin joint. By adjusting the actuator’s mounting angle and pin locations, I determined the configuration that achieved the greatest lifting force while maintaining structural balance and realistic design constraints.
 
 This project demonstrated my ability to translate theoretical statics principles into a practical mechanical design and strengthened my understanding of force transmission, moment analysis, and actuator geometry.
+
+<img src="/assets/images/beam_project.png" alt="Statics design" width="600">
+
+This project demonstrated my ability to translate theoretical statics principles into a practical mechanical design and strengthened my understanding of force transmission, moment analysis, and actuator geometry.
