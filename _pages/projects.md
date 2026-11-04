@@ -9,7 +9,9 @@ permalink: /projects/
     {% for project in site.projects %}
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
+          {% if project.image != empty %}
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+          {% endif %}
           <p>{{ project.title}}</p>
         </a>
       </div>
