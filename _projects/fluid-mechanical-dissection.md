@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fluid-Mechanical Dissection
-description: ""
+description: "We are dissecting a weed wacker"
 technologies: []
 image: ""
 ---
